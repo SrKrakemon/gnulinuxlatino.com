@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "18vo Meetup"
-event:
+title: "Mi experiencia como mujer en el mundo del Software Libre"
+event: "Mi experiencia como mujer en el mundo del Software Libre"
 event_url: https://www.facebook.com/gnulinuxlatino/
 location: https://www.facebook.com/gnulinuxlatino/
 address:
